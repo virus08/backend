@@ -1,0 +1,97 @@
+{
+
+    "data": [
+  
+        {  
+  
+            "id" : 1,
+  
+            "type": "horizontal",
+  
+            "size": 2,
+  
+            "children": [
+  
+                {
+  
+                    "type": "panel",
+  
+                    "size": 0.5,
+  
+                    "component": "color",
+  
+                    "meta": {
+  
+                    "color": "hsl(30, 80%, 73%)"
+  
+                    }
+  
+                },
+  
+                {
+  
+                    "type": "panel",
+  
+                    "size": 0.5,
+  
+                    "component": "color",
+  
+                    "meta": {
+  
+                    "color": "hsl(0, 80%, 73%)"
+  
+                    }
+  
+                }
+  
+            ]
+  
+        }, {  
+  
+            "id" : 2,
+  
+            "type": "horizontal",
+  
+            "size": 1,
+  
+            "children": [
+  
+                {
+  
+                    "type": "panel",
+  
+                    "size": 0.5,
+  
+                    "component": "color",
+  
+                    "meta": {
+  
+                    "color": "hsl(30, 80%, 73%)"
+  
+                    }
+  
+                },
+  
+                {
+  
+                    "type": "panel",
+  
+                    "size": 0.5,
+  
+                    "component": "color",
+  
+                    "meta": {
+  
+                    "color": "hsl(0, 80%, 73%)"
+  
+                    }
+  
+                }
+  
+            ]
+  
+        }
+  
+    ]
+  
+  }
